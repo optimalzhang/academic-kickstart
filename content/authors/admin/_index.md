@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Weiyi (Max) Zhang
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,28 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior Inventive Scientist 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: AT&T Labs Research
+  url: "https://maxwzhang.github.io"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:    I am a Research Scientist at the Networking and Service Quality Management (N&SQM) Research organization, AT&T Labs Research, the research organization of AT&T, which was part of Bell Laboratories before 1996 and part of AT&T Laboratories afterward. .
+
+    Before joining the AT&T Labs, I was an Assistant Professor at the Computer Science Department, North Dakota State University.
+
+    I have 100 refereed papers published/accepted in my research areas, including more than 30 publications in prestigious journals such as IEEE/ACM Transactions on Networking, IEEE Transactions on Vehicular Technology, IEEE Journal on Selected Areas in Communications, IEEE/OSA Journal of Optical Communications and Networking, ACM Wireless Networks, and ACM Mobile Networks & Applications. I have also published more than 60 papers in internationally reputable conferences such as IEEE INFOCOM, ICNP, ICDCS, and ACM MobiHoc. I received the Best Paper Award in 2007 from IEEE Global Communications Conference (GLOBECOM), the Best Paper Award from IEEE ICC'2014, and the Best Paper Award from IEEE ICNP'2017.
+
+    According to both Google Scholar and ResearchGate, my research works have received more than 2000 citations.
+
+    I have been serving on editorial boards and technical/organization committees for reputable journals and conferences, such as IEEE IoT Journal and IEEE INFOCOM.
+
+    With my wife, our sons (Marco and Lewen) and our curious pet bunny, I have lived on the West Coast (there, there, and there), the Midwest (there), and the East Coast (here and here) of the USA. I have years' experience of living with extreme weathers, from triple-digit deadly hot Arizona to double-digit below freezing North Dakota.
+
+    My Erdos Number is 3.
+
 
 interests:
 - Artificial Intelligence
@@ -69,7 +82,22 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I am a Research Scientist at the Networking and Service Quality Management (N&SQM) Research organization, AT&T Labs Research, the research organization of AT&T,
+which was part of Bell Laboratories before 1996 and part of AT&T Laboratories afterward.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Before joining the AT&T Labs, I was an Assistant Professor at the Computer Science Department, North Dakota State University.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I have 100 refereed papers published/accepted in my research areas, including more than 30 publications in prestigious journals such as
+IEEE/ACM Transactions on Networking, IEEE Transactions on Vehicular Technology, IEEE Journal on Selected Areas in Communications,
+IEEE/OSA Journal of Optical Communications and Networking, ACM Wireless Networks, and ACM Mobile Networks & Applications.
+I have also published more than 60 papers in internationally reputable conferences such as IEEE INFOCOM, ICNP, ICDCS, and ACM MobiHoc.
+I received the Best Paper Award in 2007 from IEEE Global Communications Conference (GLOBECOM), the Best Paper Award from IEEE ICC'2014,
+and the Best Paper Award from IEEE ICNP'2017.
+
+According to both Google Scholar and ResearchGate, my research works have received more than 2000 citations.
+
+I have been serving on editorial boards and technical/organization committees for reputable journals and conferences, such as IEEE IoT Journal and IEEE INFOCOM.
+
+With my wife, our sons (Marco and Lewen) and our curious pet bunny, I have lived on the West Coast (there, there, and there), the Midwest (there), and the East Coast (here and here) of the USA.I have years' experience of living with extreme weathers, from triple-digit deadly hot Arizona to double-digit below freezing North Dakota.
+
+My Erdos Number is 3.
